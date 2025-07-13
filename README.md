@@ -29,19 +29,6 @@
 
 ---
 
-## 📁 Estrutura do Projeto (sugestiva)
-
-agendouja/
-├── backend/
-│ └── AgendouJa.API/ # ASP.NET Core Web API
-├── frontend/
-│ └── public/ # HTML/CSS (versão MVP)
-├── terraform/
-│ ├── main.tf # Infraestrutura AWS
-│ └── variables.tf
-├── README.md
-
-
 👨‍👩‍👧‍👦 Equipe
 
 - Lucas Aguiar — Devops|Infraestrutura

@@ -10,7 +10,7 @@
 - Cadastro de clientes
 - Agendamento com escolha de data e hora
 - Painel administrativo (dashboard)
-- Confirmação de agendamentos por e-mail
+- Confirmação de agendamentos por API Whatsapp
 - Busca por tipo de serviço
 - Avaliação de prestadores (em breve)
 

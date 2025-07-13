@@ -1,0 +1,9 @@
+- hosts: [projeto_agendou_ja]
+  tasks:
+    - name: Instalando dependencias
+      apt:
+        pkg:
+          - python3 
+          - django
+        update_cache: yes
+      become: yes

@@ -44,6 +44,6 @@ agendouja/
 
 👨‍👩‍👧‍👦 Equipe
 
-Lucas Aguiar — Devops|Infraestrutura
-Paulo Nascimento — Backend
-Amanda Pontes — Design|Frontend
+- Lucas Aguiar — Devops|Infraestrutura
+- Paulo Nascimento — Backend
+- Amanda Pontes — Design|Frontend
